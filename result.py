@@ -77,7 +77,7 @@ y_b = sum(zip(data_b['confirmed_cases_percent'], data_b['population_percent']), 
 source_b = ColumnDataSource(data=dict(x=x_b, y=y_b))
 
 p_b = figure(tools=TOOLS, x_range=FactorRange(*x_b), plot_height=800,
-             title="Confirmed_case VS Population [note:The data is up to date to Oct. 29, 2020.]")
+             title="Confirmed_case(%) VS Population(%) [note:The data is up to date to Oct. 29, 2020.]")
 
 r_b = p_b.vbar(x='x', top='y', width=0.9, source=source_b,
                fill_color=factor_cmap('x', palette=['firebrick', 'navy'], factors=data_format_b, start=1, end=2))
@@ -122,7 +122,7 @@ y_c = sum(zip(data_c['deaths_percent'], data_c['population_percent']), ())  # li
 source_c = ColumnDataSource(data=dict(x=x_c, y=y_c))
 
 p_c = figure(tools=TOOLS, x_range=FactorRange(*x_c), plot_height=800,
-             title="Deaths VS Population [note:The data is up to date to Oct. 29, 2020.]")
+             title="Deaths(%) VS Population(%) [note:The data is up to date to Oct. 29, 2020.]")
 
 r_c = p_c.vbar(x='x', top='y', width=0.9, source=source_c,
                fill_color=factor_cmap('x', palette=['firebrick', 'navy'], factors=data_format_c, start=1, end=2)

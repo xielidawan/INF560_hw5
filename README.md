@@ -26,13 +26,14 @@ And runing the following code, env is the name of the environment or name of the
 
 >> py -m venv env
 
-![image](https://user-images.githubusercontent.com/54834260/98066382-ac5a3a80-1e0b-11eb-8e84-c8c2d121b09e.png)
 
 ![image](https://user-images.githubusercontent.com/54834260/98066363-9e0c1e80-1e0b-11eb-8359-145d9f8efcb2.png)
 
 After using this code you will have a document called env; then, you could activate it by:
 
 >> .\env\Scripts\activate
+
+![image](https://user-images.githubusercontent.com/54834260/98066382-ac5a3a80-1e0b-11eb-8e84-c8c2d121b09e.png)
 
 
 ## Step Three:

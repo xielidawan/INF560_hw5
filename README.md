@@ -29,22 +29,18 @@ After using this code you will have a document called env; then, you could activ
 ## Step Three:
 After you called the code above, you enter the virtual envirment. Now, you need to install the all the package we need, using:
 
->> pip install requirement.txt
-
+>> pip install -r requirement.txt
 
 Now you can run the code by:
 
->> py result.py
+>> bokeh serve ./result.py
 
+
+This is the picture to run the code:
 
 ![image](https://user-images.githubusercontent.com/54834260/98059831-ee2fb480-1dfc-11eb-83a6-ad14b2de5baf.png)
 
-
-///////////////////////////////
-This is the picture to run the code:
-
-![task3](https://user-images.githubusercontent.com/54834260/97098216-87a9da00-1637-11eb-957c-51f9505ad617.png)
-
+Then for stop running using ctrl + C to stop it.
 
 ## Step Four(Optional for user not push the file to Github):
 Quiting the virtual environment, by:

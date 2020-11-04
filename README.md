@@ -13,13 +13,22 @@ Way Three: Downloading the zip file of that repository
 
 
 ## Step Two:
+
 Installing virtualenv by calling this code in the terminal:
 
 >> pip install virtualenv
 
-Then run the following code, env is the name of the environment or name of the path(you could change it):
+Then, Getting into the file that you download:
+
+![image](https://user-images.githubusercontent.com/54834260/98066273-68ffcc00-1e0b-11eb-97d4-54d423c93e04.png)
+
+And runing the following code, env is the name of the environment or name of the path(you could change it):
 
 >> py -m venv env
+
+![image](https://user-images.githubusercontent.com/54834260/98066382-ac5a3a80-1e0b-11eb-8e84-c8c2d121b09e.png)
+
+![image](https://user-images.githubusercontent.com/54834260/98066363-9e0c1e80-1e0b-11eb-8359-145d9f8efcb2.png)
 
 After using this code you will have a document called env; then, you could activate it by:
 

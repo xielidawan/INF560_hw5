@@ -51,6 +51,14 @@ Or:
 
 >> bokeh serve --show ./result.py
 
+If you can't run try this:
+
+>> python -m bokeh serve --show Dashbaord.py
+
+and check is any package not install, and you could install them by:
+
+>> pip install package_name
+
 This is the picture to run the code:
 
 ![image](https://user-images.githubusercontent.com/54834260/98059831-ee2fb480-1dfc-11eb-83a6-ad14b2de5baf.png)

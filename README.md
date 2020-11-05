@@ -1,8 +1,9 @@
 # INF560_hw7
 # instruction to Create a virtual environment and run code [ In Windows System ]
 
+## Part1: Local environment runing
 
-## step one:
+### step one:
 Clone the repository to local. 
 
 Way One: Downloading the App and clone the repository from the App.
@@ -12,7 +13,7 @@ Way Two: Getting into the terminal and using code : git clone [git address]
 Way Three: Downloading the zip file of that repository
 
 
-## Step Two:
+### Step Two:
 
 Installing virtualenv by calling this code in the terminal:
 
@@ -36,7 +37,7 @@ After using this code you will have a document called env; then, you could activ
 ![image](https://user-images.githubusercontent.com/54834260/98066382-ac5a3a80-1e0b-11eb-8e84-c8c2d121b09e.png)
 
 
-## Step Three:
+### Step Three:
 After you called the code above, you enter the virtual envirment. Now, you need to install the all the package we need, using:
 
 >> pip install -r requirement.txt
@@ -52,7 +53,7 @@ This is the picture to run the code:
 
 Then for stop running using ctrl + C to stop it.
 
-## Step Four(Optional for user not push the file to Github):
+### Step Four(Optional for user not push the file to Github):
 Quiting the virtual environment, by:
 
 >> deactivate
@@ -70,3 +71,12 @@ Then, press ESC and enter:
 >> :wq!
 
 Now, you done with the .gitignore file editing.
+
+## Part2: Runing on Docker
+
+### Step One:
+Clone the repository to local. 
+
+Way One: Downloading the App and clone the repository from the App.
+
+Way Two: Getting into the terminal and using code : git clone [git address]

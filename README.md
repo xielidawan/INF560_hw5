@@ -47,6 +47,9 @@ Now you can run the code by:
 
 >> bokeh serve ./result.py
 
+Or:
+
+>> bokeh serve --show ./result.py
 
 This is the picture to run the code:
 

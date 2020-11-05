@@ -130,3 +130,10 @@ This is the pricture to run the code on my machine:
 Then, it is runing and you could go to http://localhost:5006/result on your broswer and play with it.
 
 Finnally, for stop running using ctrl + C to stop it.
+
+### EXTRA:
+Building the Dockerfile by this code:
+
+>> vim Dockerfile
+
+

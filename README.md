@@ -52,7 +52,7 @@ This is the picture to run the code:
 
 ![image](https://user-images.githubusercontent.com/54834260/98059831-ee2fb480-1dfc-11eb-83a6-ad14b2de5baf.png)
 
-Then, it is runing and you could go to on your broswer and play with it.
+Then, it is runing and you could go to http://localhost:5006/result on your broswer and play with it.
 
 Then for stop running using ctrl + C to stop it.
 
@@ -127,6 +127,6 @@ This is the pricture to run the code on my machine:
 
 ![run_code_on_my_machine](https://user-images.githubusercontent.com/54834260/98189817-99f30600-1eca-11eb-992e-ab69fbc2cdd2.png)
 
-Then, it is runing and you could go to on your broswer and play with it.
+Then, it is runing and you could go to http://localhost:5006/result on your broswer and play with it.
 
 Finnally, for stop running using ctrl + C to stop it.

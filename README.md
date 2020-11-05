@@ -1,4 +1,4 @@
-# INF560_hw7
+# INF560_hw5
 # instruction to Create a virtual environment and run code [ In Windows System ]
 
 ## Part1: Local environment runing
@@ -41,7 +41,7 @@ After using this code you will have a document called env; then, you could activ
 ### Step Three:
 After you called the code above, you enter the virtual envirment. Now, you need to install the all the package we need, using:
 
->> pip install -r requirement.txt
+>> pip install -r requirements.txt
 
 Now you can run the code by:
 

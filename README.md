@@ -8,7 +8,8 @@ Clone the repository to local.
 
 Way One: Downloading the App and clone the repository from the App.
 
-Way Two: Getting into the terminal and using code : git clone https://github.com/xielidawan/INF560_hw5.git INF560_hw5
+Way Two: Getting into the terminal and using code : 
+>> git clone https://github.com/xielidawan/INF560_hw5.git INF560_hw5
 
 Way Three: Downloading the zip file of that repository
 

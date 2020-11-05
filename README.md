@@ -136,4 +136,6 @@ Building the Dockerfile by this code:
 
 >> vim Dockerfile
 
+![docker_create](https://user-images.githubusercontent.com/54834260/98190676-644f1c80-1ecc-11eb-8ff1-9b852cfeba5d.png)
+
 

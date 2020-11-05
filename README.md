@@ -78,6 +78,7 @@ Now, you done with the .gitignore file editing.
 ## Part2: Runing on Docker
 
 ### Step One:
+Download the docker stable on docker official website and install it.
 Clone the repository to local. 
 
 Way One: Downloading the App and clone the repository from the App.
